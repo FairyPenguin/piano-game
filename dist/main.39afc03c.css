@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  height: 100vh;
+}
+
+#piano {
+  height: 290px;
+  padding: 90px 30px 0 30px;
+  border-radius: 10px;
+  background-color: #fc8989;
+}
+
+/*# sourceMappingURL=/main.39afc03c.css.map */
